@@ -2,3 +2,7 @@ Allison's breakfast:
 * Scrambled eggs
 * Toasted bread
 * Jamaica juice
+
+Karel's breakfast:
+* peanut butter jello sandwich
+* milk
