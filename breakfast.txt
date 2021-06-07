@@ -2,11 +2,9 @@ Allison's breakfast:
 * Scrambled eggs
 * Toasted bread
 * Jamaica juice
-<<<<<<< HEAD
 * Cookies
-=======
 
 Karel's breakfast:
 * peanut butter jello sandwich
 * milk
->>>>>>> d8fb45a52033c9b9f542e63926aa11482ed425fb
+
